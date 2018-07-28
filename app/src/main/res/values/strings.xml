@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Easy Employee</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <string name="prompt_email">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_pass_in_short">Password</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="attendance_detail">Attendance Detail</string>
+    <string name="working_hours">Working Hours : </string>
+    <string name="extra_hours">Extra Hours : </string>
+    <string name="check_in_time">Check-In Time : </string>
+    <string name="check_out_time">Check-Out Time : </string>
+    <string name="attendance_type">Attendance Type : </string>
+    <string name="date">Date : </string>
+    <string name="short_hours">Short Hours : </string>
+    <string name="name">Name : </string>
+    <string name="employee_code">Employee Code : </string>
+</resources>
